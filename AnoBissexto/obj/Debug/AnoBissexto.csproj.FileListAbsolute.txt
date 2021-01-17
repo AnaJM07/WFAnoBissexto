@@ -1,0 +1,10 @@
+C:\Users\Note I5\source\repos\AnoBissexto\AnoBissexto\bin\Debug\AnoBissexto.exe.config
+C:\Users\Note I5\source\repos\AnoBissexto\AnoBissexto\bin\Debug\AnoBissexto.exe
+C:\Users\Note I5\source\repos\AnoBissexto\AnoBissexto\bin\Debug\AnoBissexto.pdb
+C:\Users\Note I5\source\repos\AnoBissexto\AnoBissexto\obj\Debug\AnoBissexto.csprojAssemblyReference.cache
+C:\Users\Note I5\source\repos\AnoBissexto\AnoBissexto\obj\Debug\AnoBissexto.Form1.resources
+C:\Users\Note I5\source\repos\AnoBissexto\AnoBissexto\obj\Debug\AnoBissexto.Properties.Resources.resources
+C:\Users\Note I5\source\repos\AnoBissexto\AnoBissexto\obj\Debug\AnoBissexto.csproj.GenerateResource.cache
+C:\Users\Note I5\source\repos\AnoBissexto\AnoBissexto\obj\Debug\AnoBissexto.csproj.CoreCompileInputs.cache
+C:\Users\Note I5\source\repos\AnoBissexto\AnoBissexto\obj\Debug\AnoBissexto.exe
+C:\Users\Note I5\source\repos\AnoBissexto\AnoBissexto\obj\Debug\AnoBissexto.pdb
